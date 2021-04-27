@@ -1,0 +1,2 @@
+This is a link to the Pandas with Python laboratory on Watson:
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/9b125db2-7c4a-4d8f-9495-8c74c82c3ba2/view?access_token=68937810398dd37f7fa72d88090f55c2254dd43540f50c1f3a42e55766f391f4
